@@ -1,0 +1,3 @@
+D:\GroceryGame\src\main\resources\pngs\apples.png
+D:\GroceryGame\src\main\resources\pngs\apples.png
+Options: [1, 9, 7, 11]
